@@ -1,0 +1,14 @@
+{
+  "name": "twitter-search",
+  "version": "0.0.1",
+  "private": true,
+  "repository":"https://github.com/kimama1997/node-twitter-search",
+    "bin":{
+        "twitter-search":"./bin/twitter-search"
+    },
+  "dependencies": {
+    "argv": "0.0.2",
+    "coffee-script": "^1.8.0",
+    "oauth": "^0.9.12"
+  }
+}
